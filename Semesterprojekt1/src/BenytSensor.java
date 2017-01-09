@@ -168,7 +168,7 @@ public class BenytSensor {
 		System.out.println(afv);
 		return afv;
 	}
-
+/*
 	public static void main(String[] args) {
 		// Tjekker om programmet skal køres med
 		// testudskrifter
@@ -228,5 +228,5 @@ public class BenytSensor {
 			System.out.println("Pulsen var: " + puls + " bpm");
 			prevPuls = puls;
 		}
-	}
+	}*/
 }
